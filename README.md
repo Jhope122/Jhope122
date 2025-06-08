@@ -1,16 +1,72 @@
-## Hi there 👋
+<h1 align="center">🌍 Olá, mundo! Seja bem-vindo(a) ao meu GitHub 👋</h1>
 
-<!--
-**Jhope122/Jhope122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Eu me chamo <strong>Gisele</strong>! Tenho formação técnica em Recursos Humanos e sou estudante de programação no <strong>Programadores do Amanhã</strong>,<br>
+  onde estou desenvolvendo habilidades técnicas e aprimorando minhas soft skills. Busco unir a sensibilidade do RH com o poder da tecnologia, criando soluções que façam a diferença na vida das pessoas💫
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias que estou estudando
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
+</div>
+
+---
+
+## 💡 Objetivo Atual
+
+<p align="center">
+  Me aprimorar como <strong>desenvolvedora front-end</strong> e aprender mais sobre <strong>bancos de dados</strong>.
+</p>
+
+---
+
+## 📚 Aprendizado Contínuo
+
+<p align="center">
+  Estou sempre buscando crescer e evoluir!<br>
+  Além da parte técnica, tenho as seguintes softs skills como:
+</p>
+
+<div align="center">
+  ✨ Resiliência • Proatividade • Curiosidade • Inteligência emocional • Empatia • Criatividade • Trabalho em equipe ✨
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhope122&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhope122&layout=compact&theme=radical" />
+</div>
+
+---
+
+## 📫 Vamos nos conectar!
+
+<div align="center">
+  <a href="https://github.com/jhope122" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/giselegomesoliveira" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=giselegomes0100@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+</div>
+
+---
+
+<p align="center">
+  ✨ Obrigada por visitar meu perfil!💻👧🏽<br>
+  <em>“A tecnologia move o mundo, mas são as pessoas que o transformam.”</em>
+</p>
