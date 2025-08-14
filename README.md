@@ -1,8 +1,12 @@
 <h1 align="center">🌍 Olá, mundo! Seja bem-vindo(a) ao meu GitHub 👋</h1>
 
 <p align="center">
-  Eu me chamo <strong>Gisele</strong>! Tenho formação técnica em Recursos Humanos e sou estudante de programação no <strong>Programadores do Amanhã</strong>,<br>
-  onde estou desenvolvendo habilidades técnicas e aprimorando minhas soft skills. Busco unir a sensibilidade do RH com o poder da tecnologia, criando soluções que façam a diferença na vida das pessoas💫
+ <p>
+  Eu me chamo <strong>Gisele</strong>! Sou desenvolvedora web em início de carreira, com conhecimentos em 
+  <strong>HTML, CSS, JavaScript, Node.js, APIs REST, React, SQL e Git/GitHub</strong>.<br>
+  Tenho experiência na criação de aplicações web simples e responsivas, além do desenvolvimento de APIs, 
+  e possuo experiência em <strong>gestão de pessoas</strong>, habilidades que busco integrar à tecnologia 
+  para criar soluções centradas no usuário💫.
 </p>
 
 ---
