@@ -2,7 +2,7 @@
 
 <p align="center">
  <p>
-  Eu me chamo <strong>Gisele</strong>! Sou desenvolvedora web em início de carreira, com conhecimentos em 
+  Eu me chamo <strong>Gisele</strong>! Sou desenvolvedora web full-stack, com conhecimentos em 
   <strong>HTML, CSS, JavaScript, Node.js, APIs REST, React, SQL e Git/GitHub</strong>.<br>
   Tenho experiência na criação de aplicações web simples e responsivas, além do desenvolvimento de APIs, 
   e possuo experiência em <strong>gestão de pessoas</strong>, habilidades que busco integrar à tecnologia 
